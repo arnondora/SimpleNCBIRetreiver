@@ -21,6 +21,7 @@ db = os.getenv("DB")
 # Config Entrez
 Entrez.email = user_email
 
+# Add IDs in this array
 id_list = ['EU490707']
 
 # Check for availality of path
